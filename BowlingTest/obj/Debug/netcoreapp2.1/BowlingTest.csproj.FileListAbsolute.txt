@@ -1,0 +1,17 @@
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.csproj.CoreCompileInputs.cache
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.AssemblyInfoInputs.cache
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.AssemblyInfo.cs
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.csprojAssemblyReference.cache
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.deps.json
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.runtimeconfig.json
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.runtimeconfig.dev.json
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.pdb
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\bin\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.csproj.CopyComplete
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.pdb

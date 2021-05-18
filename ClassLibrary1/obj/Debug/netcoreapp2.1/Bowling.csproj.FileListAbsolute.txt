@@ -1,0 +1,9 @@
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\bin\Debug\netcoreapp2.1\Bowling.deps.json
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\bin\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\bin\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfoInputs.cache
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfo.cs
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\lgiancrisostomo\source\repos\BowlingTDD\ClassLibrary1\obj\Debug\netcoreapp2.1\Bowling.csprojAssemblyReference.cache
